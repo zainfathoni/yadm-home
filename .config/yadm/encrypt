@@ -1,4 +1,6 @@
 .npmrc
+.aws/config
+.aws/credentials
 .ssh/config
 .ssh/id_ed25519
 .ssh/id_ed25519.pub
