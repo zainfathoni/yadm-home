@@ -5,3 +5,4 @@
 .ssh/id_ed25519
 .ssh/id_ed25519.pub
 .secrets.env
+.ssh/github_actions
