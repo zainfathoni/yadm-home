@@ -6,3 +6,5 @@
 .ssh/github_actions
 .ssh/id_ed25519
 .ssh/id_ed25519.pub
+.ssh/wheeljackz_github
+.ssh/wheeljackz_github.pub
