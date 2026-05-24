@@ -8,3 +8,5 @@
 .ssh/id_ed25519.pub
 .ssh/wheeljackz_github
 .ssh/wheeljackz_github.pub
+.config/tailscale/certs/zains-macbook-pro.tail8a8be2.ts.net.crt
+.config/tailscale/certs/zains-macbook-pro.tail8a8be2.ts.net.key
