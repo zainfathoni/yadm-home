@@ -10,3 +10,5 @@
 .ssh/wheeljackz_github.pub
 .config/tailscale/certs/zains-macbook-pro.tail8a8be2.ts.net.crt
 .config/tailscale/certs/zains-macbook-pro.tail8a8be2.ts.net.key
+.config/tailscale/certs/vikas-mac-mini.tail8a8be2.ts.net.crt
+.config/tailscale/certs/vikas-mac-mini.tail8a8be2.ts.net.key
